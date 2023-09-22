@@ -1,1 +1,1 @@
-# ryu-haku.github.io
+# ryuhakulab.github.io
